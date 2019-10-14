@@ -1,4 +1,4 @@
-#Startup Name Generator
+## Startup Name Generator
 
 A new Flutter application.
 
